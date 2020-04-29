@@ -20,8 +20,7 @@ ___
 * project manager: __Leta__ [(github)](https://github.com/turingschool-examples)
 * project manager: __Name__ [(github)](https://github.com/turingschool-examples)
 * contributer: __Sue__ [(github)](https://github.com/GreenbergKU)
-* contributer: __`${username}`__ [(github)](https://github.com)]
-<(github)](https://github.com/`${username}`)>
+* contributer: __`${username}`__ <[(github)](https://github.com/`${username}`)>
 <br>
 
 ## Brief Synopsis
