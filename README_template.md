@@ -5,12 +5,12 @@ project: ROMCOM (paired)
 program: TURING MOD1 FE 2005
 title: README
 participants: Rachel Williams and Suzanne Wolf
--->___
+__
 ---
 ## PROJECT NAME team/type <group/paired/solo>
 ___
 ---
-
+-->
 ---
 ---
 # ROMCOM: paired project
