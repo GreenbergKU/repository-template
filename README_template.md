@@ -13,7 +13,7 @@ ___
 -->
 ---
 ---
-# ROMCOM: paired project
+# PROJECT NAME: type project
 ---
 ![Leta's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-U37MJAV0T-007ccf2f5eb2-100)
 ![Rachel's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-U010JFP5L1H-261729a15d0e-100) 
