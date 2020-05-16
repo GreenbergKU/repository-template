@@ -1,12 +1,32 @@
 # README TEMPLATE
-___
+<!--
+---
+project: ROMCOM (paired)
+program: TURING MOD1 FE 2005
+title: README
+participants: Rachel Williams and Suzanne Wolf
+-->___
 ---
 ## PROJECT NAME team/type <group/paired/solo>
 ___
 ---
 
-<slack thumbnail pics> 
+---
+---
+# ROMCOM: paired project
+---
+![Leta's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-U37MJAV0T-007ccf2f5eb2-100)
+![Rachel's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-U010JFP5L1H-261729a15d0e-100) 
+![Sue's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-100) 
 
+* project manager: __Leta__ [(GitHub profile)](https://github.com/turingschool-examples)
+* contributer: __Rachel__ [(GitHub profile)](https://github.com/rwilliams659)
+* contributer: __Sue__ [(GitHub profile)](https://github.com/GreenbergKU)
+---
+---
+
+<!--
+<slack thumbnail pics> 
 ![Casey](https://ca.slack-edge.com/T029P2S9M-U6VMF6L85-fa69b231d590-72) 
 ![Leta](https://ca.slack-edge.com/T029P2S9M-U37MJAV0T-007ccf2f5eb2-72)
 ![name](https://ca.slack-edge.com/T029P2S9M-U6VMF6L85-fa69b231d590-72) 
@@ -14,7 +34,6 @@ ___
 ![name](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf0-72)
 ![name](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf0-72)
 <br> 
-
 <group members' titles: names: (github profile): link> 
 * project manager: __Casey__ [(github)](https://github.com/turingschool-examples)
 * project manager: __Leta__ [(github)](https://github.com/turingschool-examples)
@@ -22,7 +41,7 @@ ___
 * contributer: __Sue__ [(github)](https://github.com/GreenbergKU)
 * contributer: __`${username}`__ <[(github)](https://github.com/`${username}`)>
 <br>
-
+-->
 ## Brief Synopsis
 
 Every developer has more ideas than time...
