@@ -50,6 +50,22 @@ Every developer has more ideas than time...
 * Understand how to implement...
 
 ## For more information and additional LINKS
+
+- this is how to link in markdown 
+ - [Download this `svg` icons file](https://drive.google.com/drive/folders/18xpWplI0tpXIK1omBZeq04LEx2OMzzMK?usp=sharing)
+ - ```[Download this `svg` icons file](https://drive.google.com/drive/folders/18xpWplI0tpXIK1omBZeq04LEx2OMzzMK?usp=sharing```
+ 
+ 
+- this how to display pictures
+  - <img width="250" alt="Mobile_Layout_card_Example-20200411_333AM" src="https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png">
+  - ``` <img width="250" alt="Mobile_Layout_card_Example-20200411_333AM" src="https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png"> ```
+  
+  - **or**
+  
+  - ![alt text](https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png)
+  - ``` ![alt text](https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png) ```
+  - can't control size of image with this style
+  
 <!--
 - Go checkout the [IDEABOX project website](https://marchcorbin.github.io/ideabox-boilerplate/) on Github Pages.
 - [Ideabox boilerplate repository](https://github.com/turingschool-examples/ideabox-boilerplate): the origonal project on Github.
@@ -90,9 +106,9 @@ DIRECTIONS:
 
 
 ##### `  img title/description/caption  `
-
+<!--
 <img width="1000" alt="screenshot of Desktop Layout View after Iteration 0 complete" src="https://user-images.githubusercontent.com/10098034/79301186-25149c00-7ea6-11ea-83da-ebffbc945a6b.png">
-
+-->
  
 ### ITERATION 1: MOBILE LAYOUT
 
@@ -112,20 +128,15 @@ DIRECTIONS:
 #### SCREENSHOTS
 
 
-##### `  Mobile layout view with ideaCard displayed  `
+##### `  image description  `
 
 <!--
 <img width="250" alt="Mobile_Layout_card_Example-20200411_333AM" src="https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png">
--->
-
 ##### `  Mobile layout view while navigation menu expanded  `
-
-
 <img width="250" alt="Mobile_Layout_nav_menu_Iter1-20200411_337AM" src="https://user-images.githubusercontent.com/10098034/79301111-e4b51e00-7ea5-11ea-8b42-89fe7493c29b.png">
-
-
-
+-->
 ### ITERATION 2: ADDING IDEAS
+
 
 #### Brief Synopsis of Objectives
 
@@ -139,8 +150,6 @@ DIRECTIONS:
 ### ITERATION 3: FAVORITING & DELETING IDEAS
 
 #### Brief Synopsis of Objectives 
-
-- 
 
 #### Summary of Progress
 
@@ -160,6 +169,14 @@ DIRECTIONS:
 #### SCREENSHOTS
 
 
+### ITERATION 5: LOCAL STORAGE & FILTERING
 
+#### Brief Synopsis of Objectives
+
+#### Summary of Progress
+
+* In this iteration we... 
+
+#### SCREENSHOTS
 
 
