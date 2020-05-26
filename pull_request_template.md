@@ -1,13 +1,13 @@
 ---
-name: greenbergKU's PR TEMPLATE
-about: project Feature
-title: GENERAL PULL REQUEST TEMPLATE
-labels: ''
-assignees: ''
-
+PROJECT: 
+PROGRAM: TURING FE
+TERM: MOD 1b
+DATE: 00/00/2020
+TEAM: 
+MEMBER(s): 
+file name: greenbergKU's PR TEMPLATE
+file title: GENERAL PULL REQUEST TEMPLATE
 ---
-
-PULL REQUEST TEMPLATE
 
 ## Description
 
@@ -32,6 +32,7 @@ PULL REQUEST TEMPLATE
 
 
 
+
 # CHECKLIST:
 
 - [ ] I have performed a self-review of my own code
@@ -52,12 +53,10 @@ PULL REQUEST TEMPLATE
   - [ ] coding styles:
  
 #### Additional Comments
-***Add any other context or screenshots about the feature request here.***
 ---
-[Turing HTML Style Guide]:(https://github.com/turingschool-examples/html)
-[Turing JS Style Guide]:(https://github.com/turingschool-examples/javascript)
-[Turing CSS Style Guide]:(//github.com/turingschool-examples/css)-
-* 
-* 
-* 
+***Add any other context or screenshots about the feature request here.***
+
+
+
+
 ---
