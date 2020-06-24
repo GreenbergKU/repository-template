@@ -1,21 +1,38 @@
 ---
-PROJECT: 
-PROGRAM: TURING FE
-TERM: MOD 1b
+PROJECT: (NAME)
+PROGRAM: (NAME)
+NAME: SUZIE Q
+<!-- TERM: MOD 1b -->
 DATE: 00/00/2020
-TEAM: 
-MEMBER(s): 
+<!-- TEAM: -->
+<!-- MEMBER(s): -->
 file name: greenbergKU's README template
 ---
----
-# PROJECT NAME: type project
-![Leta's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-U37MJAV0T-007ccf2f5eb2-85)
-![Casey](https://ca.slack-edge.com/T029P2S9M-U6VMF6L85-fa69b231d590-85) 
-![Scott](https://ca.slack-edge.com/T029P2S9M-UJ910QEJF-7244f37f7e12-85)
 
-![Sue's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-85)
-![name](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf0-85)
-![name](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf0-85)
+# MY repository-template
+---
+
+<!-- 
+---
+PROJECT: (NAME)
+PROGRAM: (NAME)
+NAME: SUZIE Q
+TERM: MOD 1b
+DATE: 00/00/2020
+TEAM:
+MEMBER(s):
+file name: greenbergKU's README template
+--- 
+-->
+
+# PROJECT NAME: type project
+![Leta's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-U37MJAV0T-007ccf2f5eb2-72)
+![Casey](https://ca.slack-edge.com/T029P2S9M-U6VMF6L85-fa69b231d590-72)
+![Scott](https://ca.slack-edge.com/T029P2S9M-UJ910QEJF-7244f37f7e12-72)
+
+![Sue's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-72)
+![name](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf0-72)
+![name](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf0-72)
 
 * project manager: __Leta__ [(GitHub profile)](https://github.com/turingschool-examples)
 * project manager: __Casey__ [(github)](https://github.com/turingschool-examples)
@@ -26,17 +43,24 @@ file name: greenbergKU's README template
 * contributer: __`${username}`__ <[(github)](https://github.com/`${username}`)>
 * contributer: __`${username}`__ <[(github)](https://github.com/`${username}`)>
 ---
+
+contributer: **Sue Wolf**   
+[![Sue's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-72)](https://github.com/GreenbergKU "GreenbergKU's GitHub profile")  
+GitHub username: [GreenbergKU](https://github.com/GreenbergKU)  
+ 
+<!-- [(GitHub profile)](https://github.com/GreenbergKU)  -->
+
 ---
 
 <!--
-<slack thumbnail pics> 
-![Casey](https://ca.slack-edge.com/T029P2S9M-U6VMF6L85-fa69b231d590-72) 
+<slack thumbnail pics>
+![Casey](https://ca.slack-edge.com/T029P2S9M-U6VMF6L85-fa69b231d590-72)
 ![Leta](https://ca.slack-edge.com/T029P2S9M-U37MJAV0T-007ccf2f5eb2-72)
 
-![Sue](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-72) 
+![Sue](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-72)
 ![name](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf0-72)
 ![name](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf0-72)
-<br> 
+<br>
 
 -->
 ## Brief Synopsis
@@ -51,21 +75,21 @@ Every developer has more ideas than time...
 
 ## For more information and additional LINKS
 
-- this is how to link in markdown 
+- this is how to link in markdown
  - [Download this `svg` icons file](https://drive.google.com/drive/folders/18xpWplI0tpXIK1omBZeq04LEx2OMzzMK?usp=sharing)
  - ```[Download this `svg` icons file](https://drive.google.com/drive/folders/18xpWplI0tpXIK1omBZeq04LEx2OMzzMK?usp=sharing```
- 
- 
+
+
 - this how to display pictures
   - <img width="250" alt="Mobile_Layout_card_Example-20200411_333AM" src="https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png">
   - ``` <img width="250" alt="Mobile_Layout_card_Example-20200411_333AM" src="https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png"> ```
-  
+
   - **or**
-  
+
   - ![alt text](https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png)
   - ``` ![alt text](https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png) ```
   - can't control size of image with this style
-  
+
 <!--
 - Go checkout the [IDEABOX project website](https://marchcorbin.github.io/ideabox-boilerplate/) on Github Pages.
 - [Ideabox boilerplate repository](https://github.com/turingschool-examples/ideabox-boilerplate): the origonal project on Github.
@@ -79,7 +103,7 @@ Every developer has more ideas than time...
 
 ### ITERATION 0:
 
-#### Brief Synopsis of Objectives 
+#### Brief Synopsis of Objectives
 * Plan then write the HTML and CSS...
 
 DIRECTIONS:
@@ -109,10 +133,10 @@ DIRECTIONS:
 <!--
 <img width="1000" alt="screenshot of Desktop Layout View after Iteration 0 complete" src="https://user-images.githubusercontent.com/10098034/79301186-25149c00-7ea6-11ea-83da-ebffbc945a6b.png">
 -->
- 
+
 ### ITERATION 1: MOBILE LAYOUT
 
-#### Brief Synopsis of Objectives 
+#### Brief Synopsis of Objectives
 <!--
 * Now that your Desktop Layout is in place, it's time to write some media queries so this is a responsive site.
   - Full mobile layout Images were provided (both with and without navigation menu open)
@@ -123,7 +147,7 @@ DIRECTIONS:
 
 #### Summary of Progress
 
-* In this iteration we... 
+* In this iteration we...
 
 #### SCREENSHOTS
 
@@ -142,18 +166,18 @@ DIRECTIONS:
 
 #### Summary of Progress
 
-* In this iteration we... 
+* In this iteration we...
 
 #### SCREENSHOTS
 
 
 ### ITERATION 3: FAVORITING & DELETING IDEAS
 
-#### Brief Synopsis of Objectives 
+#### Brief Synopsis of Objectives
 
 #### Summary of Progress
 
-* In this iteration we... 
+* In this iteration we...
 
 #### SCREENSHOTS
 
@@ -164,7 +188,7 @@ DIRECTIONS:
 
 #### Summary of Progress
 
-* In this iteration we... 
+* In this iteration we...
 
 #### SCREENSHOTS
 
@@ -175,8 +199,6 @@ DIRECTIONS:
 
 #### Summary of Progress
 
-* In this iteration we... 
+* In this iteration we...
 
 #### SCREENSHOTS
-
-
