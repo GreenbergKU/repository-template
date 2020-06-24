@@ -2,12 +2,10 @@
 PROJECT: (NAME)
 PROGRAM: (NAME)
 NAME: SUZIE Q
-<!-- TERM: MOD 1b -->
 DATE: 00/00/2020
-<!-- TEAM: -->
-<!-- MEMBER(s): -->
 file name: greenbergKU's README template
 ---
+
 
 # MY repository-template
 ---
@@ -17,8 +15,8 @@ file name: greenbergKU's README template
 ![GitHub stars](https://img.shields.io/github/stars/GreenbergKU/intention-timer-m12005?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/GreenbergKU/intention-timer-m12005?style=social)
 
-<!--
 ---
+<!--
 PROJECT: (NAME)
 PROGRAM: (NAME)
 NAME: SUZIE Q
@@ -27,8 +25,8 @@ DATE: 00/00/2020
 TEAM:
 MEMBER(s):
 file name: greenbergKU's README template
---- 
 -->
+---
 
 # PROJECT NAME: type project
 ![Leta's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-U37MJAV0T-007ccf2f5eb2-72)
@@ -49,11 +47,60 @@ file name: greenbergKU's README template
 * contributer: __`${username}`__ <[(github)](https://github.com/`${username}`)>
 ---
 
-contributer: **Sue Wolf**   
+
+<!-- 
+[(GitHub profile)](https://github.com/GreenbergKU)  
+
+<img width="250" alt="Mobile_Layout_card_Example-20200411_333AM" src="https://user-images.githubusercontent.com/10098034/79301108-e383f100-7ea5-11ea-849f-996531f06cd1.png">
+-->
+---
+---
+# *** IMAGE as a LINK  ***
+
+contributer:  
+**Sue Wolf**   
 [![Sue's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-72)](https://github.com/GreenbergKU "GreenbergKU's GitHub profile")  
-GitHub username: [GreenbergKU](https://github.com/GreenbergKU)  
- 
-<!-- [(GitHub profile)](https://github.com/GreenbergKU)  -->
+GitHub username:  
+[GreenbergKU](https://github.com/GreenbergKU)  
+<br>
+
+<br>
+
+### **TABLE SYNTAX:**
+
+| `div style="text-align:left"` | `div style="text-align:center"` | `div style="text-align:right"` |  
+|:-----------------|:----------------------:|-----------------------:|
+|  example1  |  example2  |  example3  |
+<br>
+<section style="display:inline-flex; width:100vw">
+    <!-- spacer -->
+<img width="70" alt="" src="">
+    <!-- spacer -->
+<div style="text-align:left; justify-self:start">created by:   
+
+  [![Sue's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-72)](https://github.com/GreenbergKU "GreenbergKU's GitHub profile")
+  <h2><b>Sue Wolf</b></h2>
+</div>  
+     <!-- spacer -->
+<img width="150" alt="" src="">
+      <!-- spacer -->
+<div style="text-align:center; justify-self:center">
+
+  [<img width="150" alt="Sue's slack profile picture" src="https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-72">](https://github.com/GreenbergKU "GreenbergKU's GitHub profile")
+  <h2><b>Sue Wolf</h2>   
+</div>
+
+<div style="text-align:right; display:flex">
+  <!-- spacer -->
+<img width="100" alt="" src="https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-100">
+  <!-- spacer -->
+
+  [![Sue's slack profile picture (small)](https://ca.slack-edge.com/T029P2S9M-UTPTTDE84-13b671276cf8-150)](https://github.com/GreenbergKU "GreenbergKU's GitHub profile")  
+</div>
+<div style="text-align:right">created by: <b>Sue Wolf </b>
+  <h3></h3> 
+</div>
+</section>
 
 ---
 
