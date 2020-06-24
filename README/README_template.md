@@ -12,7 +12,12 @@ file name: greenbergKU's README template
 # MY repository-template
 ---
 
-<!-- 
+![GitHub repo size](https://img.shields.io/github/repo-size/GreenbergKU/intention-timer-m12005)
+![GitHub contributors](https://img.shields.io/github/contributors/GreenbergKU/intention-timer-m12005)
+![GitHub stars](https://img.shields.io/github/stars/GreenbergKU/intention-timer-m12005?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GreenbergKU/intention-timer-m12005?style=social)
+
+<!--
 ---
 PROJECT: (NAME)
 PROGRAM: (NAME)
