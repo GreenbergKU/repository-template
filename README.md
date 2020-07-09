@@ -1,13 +1,17 @@
 ---
-PROJECT: DOM Manipulation Practice
+PROJECT: projectName
 PROGRAM: ODIN Project
 NAME: SUZIE Q
 COURSE: Web Development 101
-DATE: 07/02/2020
+DATE: 00/00/2020
 FILE: greenbergKU's README
+
 ---
 
-# DOM Manipulation Practice: ODIN
+# projectName
+### projectDescription
+
+---
 
 # MY repository-template
 Directories/file structure for 
