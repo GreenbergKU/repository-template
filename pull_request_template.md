@@ -1,10 +1,9 @@
 ---
-PROJECT: 
-PROGRAM: TURING FE
-TERM: MOD 1b
+PROJECT: projectName
+PROGRAM: ODIN Project
+NAME: SUZIE Q
+COURSE: Web Development 101
 DATE: 00/00/2020
-TEAM: 
-MEMBER(s): 
 file name: greenbergKU's PR TEMPLATE
 file title: GENERAL PULL REQUEST TEMPLATE
 ---
