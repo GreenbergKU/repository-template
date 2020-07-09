@@ -5,18 +5,22 @@ NAME: SUZIE Q
 COURSE: Web Development 101
 DATE: 00/00/2020
 file name: greenbergKU's PR TEMPLATE
-file title: GENERAL PULL REQUEST TEMPLATE
+
+---
+# GENERAL PULL REQUEST TEMPLATE
+
 ---
 
-## Description
+## Description: 
+***Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change*** <br>
+<br>
+<br>
+<br>
 
-#### ***Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change***
-
-
-
-## Fixes (issue)
-
-
+## Fixes (***include issue***) <br> 
+<br> 
+<br>
+<br>
 
 ## Type of change
 
@@ -25,14 +29,9 @@ file title: GENERAL PULL REQUEST TEMPLATE
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 - [ ] Refactoring
+<br>
 
-
-# How Has This Been Tested?
-
-
-
-
-# CHECKLIST:
+## How Has This Been Tested?
 
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code in hard-to-understand areas
@@ -41,20 +40,21 @@ file title: GENERAL PULL REQUEST TEMPLATE
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] Any dependent changes have been merged and published in downstream modules
 
+---
+<br>
 
-## STYLE CHECKLIST (if applicable):
-
-#### Project's Style Guidelines: 
+## STYLE: UNIFORMITY (if applicable):
 
   - [ ] image dimensions:
   - [ ] font/size:
   - [ ] code syntax:
   - [ ] coding styles:
- 
-#### Additional Comments
----
-***Add any other context or screenshots about the feature request here.***
 
+---
+<br>
+
+## Additional Comments
+***Add any other context or screenshots about the feature request here.*** <br> <br> <br>
 
 
 
