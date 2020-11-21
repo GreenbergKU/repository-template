@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%; /* Full Screen */
+}
+
+body {
+  background-color: lightblue;
+}
+
+header {
+  height: 100px;
+  background-color: navy;
+}
+
+main {
+  border-radius: 10%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 21px;
+  text-align: left;
+  padding: 5px;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+  padding: 1px 5px
+}
+
+h4 > p {
+  display: inline-grid;
+  font-size: 15px;
+  font-weight: 900;
+  padding-left: 45px;
+}
+
+.school > p {
+  padding-left: 30px;
+}
+
+#roster-sec {
+  height: 225px;
+  border: 1px cyan solid;
+  padding: 0 10%;
+}
+
+#roster-list {
+  height: 100%;
+  background-color: grey;
+  border-radius: 1%;
+}
+
+.listPlayer-num,
+.listPlayer-name, 
+.listPlayer-pos {
+  display: inline;
+  font-size: 10pt;
+}
+
+.roster-grid {
+  border: 1px cyan solid;
+  height: 150px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  
+  margin: 10px 40px;
+}
+
+li {
+  border: dashed .5px cyan;
+  width: 90%;
+}
+
+#grid-section {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(3, auto);
+  grid-gap: 5% 1%;
+  justify-items: center;
+  align-items: center;
+  padding: 5%;
+}
+
+.gridCard {
+  display: grid;
+  border: 1px cyan solid;
+  height: 315px;
+  width: 210px;
+  background-color: grey;
+  justify-items: center;
+  align-items: center;
+  border-radius: 5%;
+}
+
+.playerCard {
+  background-color: navy;
+  height: 300px;
+  width: 195px;
+  border-radius: 5%;
+}
+
+.cardTop {
+  height: 45%;
+  background-color: white;
+  border-top-left-radius: 5%;
+  border-top-right-radius: 5%;
+}
+
+.cardBottom{ 
+  height: 50%;
+}
+
+/*
+footer {
+  height: 10%;
+  background-color: navy;  
+}
+*/
