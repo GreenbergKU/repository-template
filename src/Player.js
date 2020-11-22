@@ -7,6 +7,8 @@ class Player {
     this.weight = weight;
     this.age = age; 
     this.school = school;
+    this.mug = `${this.name}.PNG`;
+    this.schoolImg = `${this.school}.PNG`;
   };
 }
 /*
