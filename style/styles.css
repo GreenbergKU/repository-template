@@ -1,0 +1,389 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color:grey;
+}
+
+header {
+  /* border: 1px cyan solid; */
+  background-image: url(../images/skyline-only.PNG);
+  background-color: white;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding-top: 11%;
+}
+
+#skyline-logo,
+#nugs-text {
+  width: 100%;
+  height: auto; 
+}
+
+#nugs-text {
+  background-color: transparent;
+}
+
+#nugs-text-small {
+  display: none;
+}
+
+main {
+  border-radius: 10%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 24px;
+  text-align: center;
+  padding: 5px 0 12px;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+h4 {
+  font-size: 15px;
+  font-weight: 600;
+  text-align: left;
+  padding: 1px 5px;
+  width: 20%;
+}
+
+.inline > p {
+  width: 80%;
+  text-align: right;
+  font-size: 15px;
+}
+
+#roster-sec {
+  height: 310px;
+  border: 1px cyan solid;
+  padding: 0 20%;
+  margin: 5% 0 0 0;
+}
+
+#roster-list {
+  border: 1px cyan solid;
+  height: 100%;
+  background-color: grey;
+  border-radius: 2%;
+}
+
+.listPlayer {
+  padding: 1px;
+}
+
+.listPlayer > p {
+  display: inline;
+  font-size: 15pt;
+  padding: 5px;
+}
+
+.roster-grid {
+  /* border: 1px cyan solid; */
+  height: 150px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 10px 35px;
+}
+
+li {
+  border: dashed .5px cyan;
+  width: 95%;
+}
+
+#playerCard-sec {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(3, auto);
+  grid-gap: 15px;
+  justify-items: center;
+  align-items: center;
+  padding: 3%;
+}
+
+.gridCard {
+  display: grid;
+  height: 400px;
+  width: 285px;
+  background-color: lightblue;
+  justify-items: center;
+  align-items: center;
+  border-radius: 5%;
+}
+
+.playerCard {
+  border: 5px gold solid;
+  background-color: navy;
+  height: 360px;
+  width: 265px;
+  border-radius: 5%;
+}
+
+.cardTop {
+  height: 45%;
+  background-color: white;
+  border-top-left-radius: 4%;
+  border-top-right-radius: 4%;
+}
+
+.mug-img {
+  width: 255px;
+  height: 158px
+}
+
+.cardBottom{ 
+  height: 55%;
+  padding: 4%;
+}
+
+.inline {
+  /* border: dashed .5px cyan; */
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+/*
+footer {
+  height: 10%;
+  background-color: navy;  
+}
+*/
+@media only screen and (max-width: 1260px) {
+  /* styles for wide screens */
+
+  header {
+    padding-top: 14%;
+    /* border: 1px cyan solid; */
+    /* 
+    background-image: url(../images/skyline-only.PNG);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center; 
+    */ 
+  }
+  
+  #nugs-text {
+    height: 110%; 
+  }
+
+  #roster-sec {
+    height: 320px;
+    padding: 0 15%;
+    
+    /* 
+    border: 1px cyan solid;
+    margin: 5% 0 0 0; 
+    */
+  }
+  
+  #roster-list {
+    border-radius: 3%;
+    /* 
+    height: 100%;
+    background-color: grey; 
+    */
+  }
+
+  li {
+    width: 95%;
+    border: dashed .5px cyan;
+  }
+
+  .listPlayer > p {
+    font-size: 14pt;
+    padding: 5px;
+    /* display: inline; */
+  }
+  
+  #playerCard-sec {
+    grid-template-columns: repeat(3, auto);
+    
+    /*
+    grid-gap: 15px;
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+    justify-items: center;
+    align-items: center;
+    padding: 3%;
+    */
+  } 
+}
+
+@media only screen and (max-width: 990px) {
+  
+  header {
+    padding-top: 14%;
+    /* border: 1px cyan solid; */
+    /* 
+    background-image: url(../images/skyline-only.PNG);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center; 
+    */ 
+  }
+
+  #nugs-text {
+    height: 150%;
+  }
+
+  #playerCard-sec {
+    grid-template-columns: repeat(2, auto);  
+     
+    /* 
+    grid-gap: 15px;
+    display: grid;   
+    grid-template-rows: repeat(3, auto);
+    justify-items: center;
+    align-items: center;
+    padding: 3%; 
+    */
+  }
+
+  #roster-sec {
+    height: 320px;
+    padding: 0 7%;
+    
+    /* 
+    border: 1px cyan solid;
+    margin: 5% 0 0 0; 
+    */
+  }
+  
+  #roster-list {
+    border-radius: 3%;
+    /* 
+    height: 100%;
+    background-color: grey; 
+    */
+  }
+
+  .roster-grid {
+    /* border: 1px cyan solid; */
+    height: 150px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 10px 10px;
+  }
+
+  li {
+    width: 96%;
+    /* border: dashed .5px cyan; */
+  }
+
+  .listPlayer > p {
+    font-size: 12pt;
+    padding: 3px;
+    /* display: inline; */
+  }
+}
+
+@media only screen and (max-width: 630px) {
+  /* narrow screens in landscape view */
+  
+  header {
+    padding-top: 28%;
+    background-image: url(../images/skyline-small-630.png);
+    background-size: contain;
+    /* border: 1px cyan solid;
+    background-repeat: no-repeat;
+    
+    background-position: center;
+    background-color: white;
+    
+    display: grid;
+    justify-content: center;
+    align-items: center; 
+    */ 
+  }
+
+  #nugs-text {
+    display: none; 
+  }
+
+  #nugs-text-small {
+    height: 80%;
+    display: grid;
+    background-color: transparent;
+    justify-self: center;
+
+  }
+
+  #playerCard-sec {
+    grid-template-columns: repeat(1, auto);
+    
+    /* 
+    grid-gap: 15px;
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+    justify-items: center;
+    align-items: center;
+    padding: 3%; 
+    */
+  }
+
+  #roster-sec {
+    height: 480px;
+    padding: 0 10%;
+    margin: 6% 0 2% 0; 
+    /* 
+    border: 1px cyan solid;
+    */
+  }
+
+  .listPlayer {
+    padding: 0;
+  }
+  
+  #roster-list {
+    border-radius: 3%;
+    /* 
+    height: 100%;
+    background-color: grey; 
+    */
+  }
+
+  li {
+    width: 95%;
+    border: dashed .5px cyan;
+  }
+
+  .listPlayer > p {
+    font-size: 12pt;
+    padding: 0 3px;
+    margin: 0;
+  }
+  
+  .roster-grid {
+    height: 200px;
+    grid-template-columns: repeat(1, 1fr);
+    margin: 10px 35px;
+  }
+  
+}
+
+@media only screen and (max-width: 415px) {
+  /* styles for narrow screens */
+
+}
