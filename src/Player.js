@@ -12,13 +12,8 @@ class Player {
     this.SPOTnum = SPOTnum || null;
     //this.schoolImg = `${this.school}.PNG`;
   };
+
+  convertName(name) {
+    return name.toLowerCase().split(" ").join("-");
+  }
 }
-/*
-let data = [
-  ["Will Barton", 5, "Gaurd", "6'5", 181, 29, "Memphis"], 
-  ["Nikola Jokic", 15, "Center", "7'0", 284, 25, "n/a (Serbia)"],
-  ["Jamal Murray", 27, "Gaurd", "6'4", 215, 23, "Kentucky"]
-];
-let player = new Player(data[0][0], data[0][1], data[0][2], data[0][3], data[0][4], data[0][5], data[0][6]);
-console.log(data[0].length, player)
-*/
