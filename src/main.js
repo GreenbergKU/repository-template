@@ -3,9 +3,11 @@ let allNuggets = [];
 document.onload = setUp(); 
 
 function setUp() {
+  const cardSec = document.getElementById("playerCard-sec");
   createPlayers();
   fillRosterList();
-  fillGridCard();
+  fillGridCard(cardSec);
+  goToTop(cardSec.lastElementChild.lastElementChild);
 };
 
 function createPlayers() {
@@ -51,9 +53,8 @@ function fillRosterList() {
   });
 }
 
-function fillGridCard() {
-  let cardSec = document.getElementById("playerCard-sec");
-  cardSec.innerHTML = "";
+function fillGridCard(sec) {
+  sec.innerHTML = "";
   allNuggets.forEach(function(player) {
     let index = allNuggets.indexOf(player);
   
@@ -74,11 +75,18 @@ function fillGridCard() {
             <span class="inline"><h4 class="school">school:</h4><p>${player.school}</p></span>
           </div>
         </div>
-      </div>
+        <button id="goTopBtn-${index}" class="hidden" onclick="window.location.href='#top'">
+          Roster
+        </button>
+      </div>  
     `;
-    cardSec.insertAdjacentHTML("beforeend", playerCardHTML);
-
-  })
-
+    sec.insertAdjacentHTML("beforeend", playerCardHTML);
+  });
 }
-                 
+
+function goToTop(sec) {
+  sec.classList.toggle("hidden");
+  sec.classList.add("goTopBtn", "fixed");
+}
+
+
