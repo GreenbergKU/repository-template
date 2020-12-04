@@ -98,5 +98,3 @@ function goToTop(sec) {
   sec.classList.toggle("hidden");
   sec.classList.add("goTopBtn", "fixed");
 }
-
-
